@@ -1,0 +1,59 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  /*/background-color: #b34180;*/
+  background-image:url("Dicee_images/bg1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  margin-bottom: 0px;
+  font-family: 'Lobster', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 3rem;
+  color: #1b05f3;
+  font-family: serif;
+  font-weight: bolder;
+}
+h2{
+  color: #0f1123;
+  font-size: 5rem;
+  text-shadow: 5px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+i{
+   color: #0f1123;
+  font-size: 3rem;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 2%;
+  padding: 1.5%;
+  background-color: #b088f9;
+  color: "black";
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
